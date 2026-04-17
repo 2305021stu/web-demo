@@ -1,9 +1,24 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Fitness</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affordable Gym Equipment & Fitness Gear | Shop High-Quality Products</title>
+    <meta name="description" content="Discover the best gym products at unbeatable prices. From dumbbells to resistance bands, find high-quality fitness gear to crush your home workouts.">
+    <meta name="robots" content="index, follow">
 </head>
 <body>
-<p>Gym products</p>
-<p>Best products cheap price buy now</p>
+    <header>
+        <h1>Premium Gym Products & Fitness Equipment</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Best Fitness Products at Affordable Prices</h2>
+            <p>Ready to level up your training? Explore our curated selection of high-performance gear designed for every budget.</p>
+            
+            <a href="/shop" title="Browse our full gym product catalog">Buy Now & Save</a>
+        </section>
+    </main>
 </body>
 </html>
